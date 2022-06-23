@@ -1,0 +1,40 @@
+@media (max-width: 576px) {
+  body {
+    font-size: 13px;
+  }
+
+  .ping__header {
+    img {
+      width: 60px;
+    }
+    h1 {
+      font-size: 22px;
+      margin: 10px;
+    }
+    p {
+      font-size: 12px;
+    }
+  }
+
+  .ping__form {
+    position: relative;
+    input {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+    button {
+      width: 100%;
+    }
+
+    p {
+      text-align: center;
+      position: absolute;
+      top: 38%;
+      left: 20%;
+    }
+  }
+
+  .ping__hero {
+    margin: 40px auto;
+  }
+}
