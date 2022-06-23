@@ -12,7 +12,7 @@
 
 ### Screenshot
 
-![](./design/ping-desktop.png)
+![](./design/ping-mockup.png)
 
 ### Links
 
